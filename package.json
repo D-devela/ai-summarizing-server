@@ -1,5 +1,5 @@
 {
   "name": "ai-summarizer-server",
   "version": "1.0.0",
-  "description": "A server for summarizing text using AI."
+  "type": "module"
 }
