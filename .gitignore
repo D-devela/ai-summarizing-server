@@ -1,0 +1,18 @@
+# Environment variables (VERY IMPORTANT)
+.env
+
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build / cache
+dist/
+build/
+.cache/
